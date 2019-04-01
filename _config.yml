@@ -25,7 +25,7 @@ services:
   nodewaves: true
   busuanzi: true
   # fastclick: true
-  # popular_posts: true   # 需要安装插件  hexo-related-popular-posts
+  popular_posts: true   # 需要安装插件  hexo-related-popular-posts
   comments: true
   volantis: true
   # music: true
